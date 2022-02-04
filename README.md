@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pullu05
+- 👋 Hi, I’m Rishav Dutta
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m a 3rd year ECE Student.
 - 📫 Email:pulludutta20@gmail.com
